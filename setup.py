@@ -32,6 +32,7 @@ setup(
     version = "1.3.3",
     packages = find_packages(),
     long_description=read('README.md'),
+    long_description_content_type='text/markdown',
     # metadata for upload to PyPI
     author = "Stefano Terna",
     author_email = "stefano.terna@tomorrowdata.io",
